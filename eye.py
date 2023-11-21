@@ -41,7 +41,7 @@ user_agents = [
 	'Mozilla/4.0 (compatible; MSIE 6.1; Windows NT 5.1; Trident/4.0; SV1; .NET CLR 3.5.30729; InfoPath.2'
 	'eye.pyMozilla/5.0 (Windows; U; MSIE 7.0; Windows NT 6.0; en-US'
 	'Links (2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25'
-    'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; WOW64; Trident/4.0; SLCC1'
+        'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; WOW64; Trident/4.0; SLCC1'
 	'Mozilla/1.22 (compatible; Konqueror/4.3; Linux KHTML/4.3.5 (like Gecko'
 	'Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 6.5'
 	'Opera/9.80 (Macintosh; U; de-de Presto/2.8.131 Version/11.10'
